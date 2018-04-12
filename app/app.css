@@ -1,0 +1,25 @@
+.logo {
+	padding: 14px;
+	width:100%;
+}
+
+.list {
+	width:100%;
+}
+
+.alert {
+	border: 1px solid #ccc;
+	padding: 6px;
+}
+
+.alert-info {
+	background-color: #d9edf7;
+}
+
+.alert-success {
+	background-color: #dff8d8;
+}
+
+.alert-warning {
+	background-color: #fcf8e3;
+}

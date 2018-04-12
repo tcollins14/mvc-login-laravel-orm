@@ -1,0 +1,13 @@
+{
+    "require": {
+        "illuminate/database": "^5.5",
+        "mailgun/mailgun-php": "^2.4",
+        "php-http/guzzle6-adapter": "^1.1",
+        "php-http/message": "^1.6"
+    },
+    "autoload": {
+    	"classmap": [
+    		"app/models"
+    	]
+    }
+}
